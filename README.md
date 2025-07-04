@@ -4,13 +4,6 @@ A simple and intuitive **To-do List Application** built with **React**, **JavaSc
 
 
 
- 📸 Demo
-
-> **[Live Demo](#)** (Add your deployment link here, if you have one)
-> *(Optional: Add a screenshot or GIF here!)*
-
-
-
 ⚙️ Tech Stack
 
   React (JavaScript library for building user interfaces)
